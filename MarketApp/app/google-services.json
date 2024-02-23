@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088424556566",
+    "project_id": "marketapp-f34ac",
+    "storage_bucket": "marketapp-f34ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088424556566:android:004210af5dec5641ed1d37",
+        "android_client_info": {
+          "package_name": "com.example.marketapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD__-eYQFLbPPeL7IamXSqkV64LG4NgmKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
